@@ -1,3 +1,4 @@
+#Program to generate QR Code for text message, links,Youtube video link 
 import qrcode
 from PIL import Image
 
