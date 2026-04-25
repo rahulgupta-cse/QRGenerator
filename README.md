@@ -20,7 +20,8 @@ You can install the required libraries using:
 
 ```bash
 pip install qrcode[pil]
-```
+``
+it will install Required library for QR generator
 
 ##  Code
 
