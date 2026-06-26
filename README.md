@@ -92,3 +92,6 @@ my_qr.png
 ## License
 
 This project is open source and free to use.
+
+## Author
+Rahul Gupta
