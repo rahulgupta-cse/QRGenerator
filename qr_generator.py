@@ -10,6 +10,6 @@ qr = qrcode.QRCode(version =1,
                    box_size=10,border=4,) 
 qr.add_data(url)
 qr.make(fit=True)
-img=qr.make_image(fill_color="black",back_color="white")
+img=qr.make_image(fill_color="black",back_color="white") #QR image style
 img.save(filename + ".png")
 print("QR Code generated and saved as", filename + ".png")
