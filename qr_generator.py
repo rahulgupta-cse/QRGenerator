@@ -2,6 +2,7 @@
 import qrcode
 from PIL import Image
 
+#Url and detials input from the user 
 url = input("Enter the URL or message You want to Display:\n")
 filename = input("Enter the file name to save QR (without .png): ")
 
