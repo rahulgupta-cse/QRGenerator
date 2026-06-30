@@ -6,6 +6,7 @@ A simple Python project that generates a QR code from a URL or text message and 
 * Save QR code as a PNG image
 * Simple command-line interaction
 * Custom file name support
+* It support file only in PNG format
 
 ## Requirements
 Make sure you have the following installed:
